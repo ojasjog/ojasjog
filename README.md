@@ -36,19 +36,6 @@ A custom object-oriented language interpreter and compiler built entirely from s
 - **Tech Stack:** Java.
 - **Focus:** Developed lexical analysis structures, parsing algorithms, and Abstract Syntax Trees (AST), integrating Recurrent Neural Networks (RNNs) for predictive coding implementation.
 
-#### 🔗 [CipherChat](https://github.com/ojasjog/cipherchat_project)
-A decentralized, peer-to-peer messaging application engineered on the blockchain.
-- **Tech Stack:** Motoko, HTML, CSS.
-- **Focus:** Implemented robust end-to-end encryption protocols and decentralized data stores as a solo contributor for an international DoraHacks competition.
-
----
-
-### 🏆 Achievements & Recognitions
-- **Finalist (Top 5 / 150+ Teams)** | Devjams 2025
-- **Silver Medalist** | Quebec International Music Competition 2024
-- **Grade 5 Theory & Performance (Keyboard)** | Trinity College London
-- **Best Delegate** | DTMUN Pune 2023
-
 ---
 
 ### 📊 My GitHub Stats
