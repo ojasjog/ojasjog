@@ -1,9 +1,9 @@
-```text
-ojas@vit-vellore:~$ ./execute_profile.sh
-[STATUS] Initializing core developer portfolio...
-[INFO]   Focus: Systems Programming, AI Infrastructure, and Language Design.
-[INFO]   Current Stack: Java | Python | C++ | C
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Systems%20%26%20AI%20Solutions-00C6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/University-VIT%20Vellore-7B61FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Class-2029-FF5C7A?style=flat-square" />
+</p>
+<br/>
 
 ### 🚀 About Me
 -  Computer Science Engineering undergraduate student at VIT Vellore (Class of 2029).
