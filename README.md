@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ojas+Jog!;Aspiring+Computer+Scientist;Systems+%2B+AI+Solutions+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p>
+```text
+ojas@vit-vellore:~$ ./execute_profile.sh
+[STATUS] Initializing core developer portfolio...
+[INFO]   Focus: Systems Programming, AI Infrastructure, and Language Design.
+[INFO]   Current Stack: Java | Python | C++ | C
+```
 
 ### 🚀 About Me
 -  Computer Science Engineering undergraduate student at VIT Vellore (Class of 2029).
