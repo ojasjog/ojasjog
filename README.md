@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Systems%20%26%20AI%20Solutions-00C6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/University-VIT%20Vellore-7B61FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Class-2029-FF5C7A?style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ojas!;Aspiring+Computer+Scientist;Systems+%2B+AI+Solutions+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
-<br/>
 
 ### 🚀 About Me
 -  Computer Science Engineering undergraduate student at VIT Vellore (Class of 2029).
